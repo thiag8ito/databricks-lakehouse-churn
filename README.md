@@ -7,7 +7,7 @@ A empresa enfrenta uma alta taxa de cancelamento (churn) de clientes, impulsiona
 🏗️ Arquitetura Medalhão
 O fluxo de dados foi desenhado utilizando o conceito de Lakehouse, processando o dado desde a ingestão bruta até o consumo final e inferência do modelo de Machine Learning.
 
-[Arquitetura](arquitetura_medalhao.png)
+![Arquitetura](arquitetura_medalhao.png)
 
 
 📊 Dashboard Final
